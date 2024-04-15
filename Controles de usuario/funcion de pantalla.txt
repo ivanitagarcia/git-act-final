@@ -1,4 +1,0 @@
-*******************************************
-Funcionalidad de la pantalla de resultado (Output)
-******************************************
-Depende de la rama del diseño visual

@@ -1,4 +1,3 @@
 *******************************************
-Funcionalidad de botones (Inputs)
+Porcentaje
 *******************************************
-Depende de la rama del diseño visual 
