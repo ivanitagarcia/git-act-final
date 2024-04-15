@@ -1,0 +1,4 @@
+*******************************************
+Funcionalidad de botones (Inputs)
+*******************************************
+Depende de la rama del diseño visual 
